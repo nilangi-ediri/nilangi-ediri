@@ -21,21 +21,21 @@ I enjoy working across the stack: designing front-end experiences, integrating s
 
 ## 💼 My Experience
 
-- 👩‍💻 **Software Engineer – Creart Digital Media (Adelaide)**
+- 👩‍💻 **Software Engineer – Creart Digital Media, ThincLab, Adelaide,**
   - Rebuilt the web front end with HTML, CSS, JS, and TypeScript and made the app fully responsive.
   - Integrated 10+ REST APIs from a Java Spring Boot backend, added JWT-based login, and later migrated the product into a **FlutterFlow AI assistant app** with Gemini AI + AssemblyAI and Firebase auth.
 
 - 🧩 **Software Engineer – CREST, The University of Adelaide**
   - Built a dynamic, modular **React.js** front end for an Autism Social Web Platform with reusable components and responsive layouts.
 
-- ✅ **Software Quality Assurance Engineer – Sana Commerce (Netherlands-based global IT company)**
+- ✅ **Software Quality Assurance Engineer – Sana Commerce (Netherlands-based global SaaS e-commerce company)**
   - Designed and executed 120+ automated and manual Cypress test cases, identified critical bugs, and contributed to agile sprint cycles and release processes.
 
-- 🤖 **Software Engineer – SL Robotics Solutions (IoT & robotics)**
+- 🤖 **Software Engineer – SL Robotics Solutions (IoT & robotics), Colombo, Sri Lanka**
   - Built and deployed IoT solutions (smart counters, controllers) with Arduino, NodeMCU, Firebase, and full web/mobile lifecycles.
 
-- 🔬 **R&D Software Engineer – Orel Corporation**
-  - Worked on wireless Zigbee/Bluetooth smart home systems and web interfaces for remote control and automation. :contentReference[oaicite:0]{index=0}
+- 🔬 **R&D Software Engineer – Orel Corporation, Colombo Sri Lanka.**
+  - Worked on wireless Zigbee/Bluetooth smart home systems and web interfaces for remote control and automation. 
 
 ---
 
@@ -91,11 +91,11 @@ I enjoy working across the stack: designing front-end experiences, integrating s
 
 **Front End**
 
-`React` · `TypeScript` · `JavaScript` · `Bootstrap` · `CSS` . `Next.js`  
+`React` · `TypeScript` · `JavaScript` · `Bootstrap` · `CSS` · `Next.js`  
 
 **Back End & Databases**
 
-`Node.js` · `Express.js` . `Next.js` · `MongoDB` · `PostgreSQL` · `Firebase` 
+`Node.js` · `Express.js` · `Next.js` · `MongoDB` · `PostgreSQL` · `Firebase` 
 
 **Testing, Dev & Collaboration**
 
