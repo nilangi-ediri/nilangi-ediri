@@ -7,7 +7,7 @@
 
 I'm **Nilangi Edirisinghe**, a full-stack software developer and engineer in Adelaide, Australia, with experience across startups, global tech companies, and university industry projects.
 
-I love building **real-world, end-to-end solutions** – from responsive web apps to AI-powered assistants and predictive machine learning models. What motivates me most is turning complex ideas into reliable software that genuinely helps users and stakeholders, while collaborating closely with teams and clients.
+I love building **real-world, end-to-end solutions**, from responsive web apps to AI-powered assistants and predictive machine learning models. What motivates me most is turning complex ideas into reliable software that genuinely helps users and stakeholders, while collaborating closely with teams and clients.
 
 I enjoy working across the stack: designing front-end experiences, integrating secure APIs, and using data and AI to solve meaningful problems.  
 
@@ -50,7 +50,7 @@ I enjoy working across the stack: designing front-end experiences, integrating s
 
 **Frameworks & Libraries**
 
-`React.js` · `Node.js / Express.js` · `Bootstrap` · `Flutter / FlutterFlow`
+`React.js` · `Node.js / Express.js`.`Next.js`· `Bootstrap` · `Flutter / FlutterFlow`
 
 **Data, AI & ML**
 
@@ -77,11 +77,11 @@ I enjoy working across the stack: designing front-end experiences, integrating s
 
 **Front End**
 
-`React` · `TypeScript` · `JavaScript` · `Bootstrap` · `CSS`  
+`React` · `TypeScript` · `JavaScript` · `Bootstrap` · `CSS` . `Next.js`  
 
 **Back End & Databases**
 
-`Node.js` · `Express.js` · `MongoDB` · `PostgreSQL` · `Firebase`  
+`Node.js` · `Express.js` . `Next.js` · `MongoDB` · `PostgreSQL` · `Firebase` 
 
 **Testing, Dev & Collaboration**
 
