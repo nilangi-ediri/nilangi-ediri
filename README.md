@@ -39,28 +39,42 @@ I enjoy working across the stack: designing front-end experiences, integrating s
 
 ---
 
-## 💪 My Skills
+### My Skills 💪🏼
 
-### 🧱 Core Stack
+- 🛠️ I work extensively with HTML, CSS, JavaScript, React, Next.js, Node.js/Express.js, and MySQL.  
+- 😎 I utilize Jest.js, React Testing Library, MongoDB and ChatGPT.  
+- 🌱 I am currently learning something new and expecting to use them in the next project.  
 
-**Languages & Core Tech**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
 
-`Python` · `JavaScript` · `TypeScript` · `SQL` · `NoSQL`  
-`HTML` · `CSS`
+  <br/>
 
-**Frameworks & Libraries**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
 
-`React.js` · `Node.js / Express.js`.`Next.js`· `Bootstrap` · `Flutter / FlutterFlow`
+  <br/>
 
-**Data, AI & ML**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</p>
 
-`Machine Learning (Random Forest, XGBoost, DNN)`  
-`LLM Integration (Gemini AI)` · `AssemblyAI` · `Data Analysis`
+<p align="center"><b>And More...!</b></p>
 
-**Cloud & Dev Practices**
+---
 
-`RESTful APIs` · `Microsoft Azure` · `Firebase`  
-`Git & GitHub` · `Agile / Scrum` · `Testing (Cypress, QA, automation)`
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilangi-ediri&layout=compact&theme=radical)
 
 ---
 
@@ -103,8 +117,6 @@ _And more as each project demands!_
 ## 📊 GitHub Stats
 
 ![Nilangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilangi-ediri&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilangi-ediri&layout=compact&theme=radical)
 
 ---
 
